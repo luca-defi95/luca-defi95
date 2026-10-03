@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## About me
-> I live in Italy, in a little town in the province of Salerno. I've studied computer science in high school and decided to continue it in Università di Salerno. 
+> I live in Italy, in a little town in the province of Salerno. I've studied computer science in high school and decided to continue it in Università di Salerno. <br/>
 > Beside computer science, I'm a professional bboy and I like competing, even in small competition. This passion was born when I was 5 and never die. Even on these days I practice every day. It taught me to never stop beliving in your dreams. You have to fail, multiples times, before win. And even if you win, you can lose but you need to have the courage and strenght to get up.
 
 ## Social
