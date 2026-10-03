@@ -14,7 +14,7 @@
 
 > Building personal projects to learn how to be more creative and sometimes trying to work with teams.
 
-*If you wanna collaborate with some project, im happy to be part of it!* <br/>
+*If you wanna collaborate with some project, I'm happy to be a part of it!* <br/>
 *Just contact me luca.defi95@gmail.com and we'll talk about it!*
 
 
