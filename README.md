@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=maybelad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="maybelad hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=luca-defi95&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="luca-defi95 hero visual" />
 </p>
 
 <h1>Luca De Filippo</h1>
