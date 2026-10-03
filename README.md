@@ -6,7 +6,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=luca-defi95&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="luca-defi95 hero visual" />
 </p>
 
-<h1>Luca De Filippo</h1>
 <p><b>Freelance developer</b></p>
 
 </div>
@@ -16,7 +15,7 @@
 > Building personal projects to learn how to be more creative and sometimes trying to work with teams.
 
 *If you wanna collaborate with some project, im happy to be part of it!* <br/>
-*Just contact me btwLad95@gmail.com and we'll talk about it!*
+*Just contact me luca.defi95@gmail.com and we'll talk about it!*
 
 
 ## Case studies
@@ -39,6 +38,6 @@
 
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=maybelad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="maybelad social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=luca-defi95&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="luca-defi95 social visual" />
 </p>
 
