@@ -1,10 +1,42 @@
-<h1 align="center">Hello, I'm  Luca aka Lad</h1>
-<h3 align="center">A passionate frontend and backend developer from Italy</h3>
+## Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lad_gtfz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lad_gtfz" height="30" width="40" /></a>
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=maybelad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="maybelad hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h1>Luca D.F.</h1>
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> Building useful things and learning in public.
+
+- 馃懃 **0** followers 路 **0** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/maybeLad/military-management-system">military-management-system</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java 路 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/maybeLad/dopamine-project">dopamine-project</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java 路 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/maybeLad/maybeLad">maybeLad</a></b></td><td>Discover MySelf<br/><sub>open source 路 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=maybelad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171925630%3Fu%3Df8cb29fa4d9888f95c762e094c733183e05e4270%26v%3D4" alt="maybelad social visual" />
+</p>
+
+<a href="https://github.com/maybelad">GitHub</a>
+
+<p align="center"><sub>Luca D.F. 路 Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
