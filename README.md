@@ -21,7 +21,6 @@
 ## Case studies
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/maybeLad/military-management-system">Military Management System</a></b></td><td>Project for testing JavaFX with Maven<br/><sub>Java 路 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/maybeLad/dopamine-project">Dopamine - ECommerce</a></b></td><td>University project for an exam. Web-application with my collegue<br/><sub>Java 路 0 stars</sub></td></tr>
 </table>
 
